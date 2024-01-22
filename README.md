@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarayAnta)](https://github.com/SarayAnta/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarayAnta&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarayAnta&layout=compact)](https://github.com/SarayAnta/github-readme-stats)
 
 <!--
