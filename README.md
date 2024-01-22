@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarayAnta)](https://github.com/SarayAnta/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarayAnta&layout=compact)](https://github.com/SarayAnta/github-readme-stats)
 
 <!--
